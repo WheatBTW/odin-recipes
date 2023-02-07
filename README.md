@@ -1,1 +1,1 @@
-# odin-recipes
+A website that shows off my newly learned html skills with options to build upon them in the future. 
