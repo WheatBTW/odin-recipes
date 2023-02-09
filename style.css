@@ -1,6 +1,11 @@
+@font-face {
+    font-family: 'otaku_rantbold';
+    src: url(wyatthoff/repos/odin-recipes/fontkit/otaku-rant-bold-webfont.woff2) format('woff2'),
+         url(wyatthoff/repos/odin-recipes/fontkit/otaku-rant-bold-webfont.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
 body {
-    font-family: Arial, sans-serif;
-    background-image: url(https://wallpaper.dog/large/11038167.jpg);
+    background-image: url(wyatthoff/repos/odin-recipes/japanese-garden.jpg);
     background-size: cover;
 }
 
